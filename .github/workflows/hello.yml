@@ -9,6 +9,9 @@ jobs:
         steps:
             - name: imprime mensaje
               run: echo "hello world"
+            - name: fecha
+              run: date
+
             
 
 
